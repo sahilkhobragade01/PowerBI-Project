@@ -1,0 +1,4 @@
+Interactive dashboard was created using PowerBI software. Interactive visuals and charts were plotted for data analysis and data interpretation.
+Designed and implemented visually engaging reports utilizing data visualization tools that streamlined
+data interpretation; facilitated insights for over 20 stakeholders, resulting in enhanced project
+alignment and a 25 percent reduction in reporting time.
